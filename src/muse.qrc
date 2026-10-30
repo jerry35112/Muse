@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="/">
+    <!-- window shell -->
+    <file alias="qml/Main.qml">../qml/Main.qml</file>
+    <file alias="qml/Theme.js">../qml/Theme.js</file>
+    <!-- pages -->
+    <file alias="qml/OverviewPage.qml">../qml/OverviewPage.qml</file>
+    <file alias="qml/SubscriptionsPage.qml">../qml/SubscriptionsPage.qml</file>
+    <file alias="qml/ProgramsPage.qml">../qml/ProgramsPage.qml</file>
+    <file alias="qml/PreferencesPage.qml">../qml/PreferencesPage.qml</file>
+    <file alias="qml/NodesPage.qml">../qml/NodesPage.qml</file>
+    <!-- widgets -->
+    <file alias="qml/Copy.qml">../qml/Copy.qml</file>
+    <file alias="qml/Glyph.qml">../qml/Glyph.qml</file>
+    <file alias="qml/Command.qml">../qml/Command.qml</file>
+    <file alias="qml/Field.qml">../qml/Field.qml</file>
+    <file alias="qml/FilterChip.qml">../qml/FilterChip.qml</file>
+    <file alias="qml/Card.qml">../qml/Card.qml</file>
+    <file alias="qml/PathTip.qml">../qml/PathTip.qml</file>
+    <file alias="qml/StatusPill.qml">../qml/StatusPill.qml</file>
+    <!-- chrome -->
+    <file alias="qml/AppSidebar.qml">../qml/AppSidebar.qml</file>
+    <file alias="qml/TitleBar.qml">../qml/TitleBar.qml</file>
+    <file alias="qml/WindowHandles.qml">../qml/WindowHandles.qml</file>
+    <file alias="qml/ClosingOverlay.qml">../qml/ClosingOverlay.qml</file>
+    <!-- dialogs -->
+    <file alias="qml/SubscriptionDialog.qml">../qml/SubscriptionDialog.qml</file>
+    <file alias="qml/RemoveSubscriptionDialog.qml">../qml/RemoveSubscriptionDialog.qml</file>
+    <file alias="assets/muse.png">../assets/muse.png</file>
+  </qresource>
+</RCC>
